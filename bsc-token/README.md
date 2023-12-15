@@ -2,18 +2,18 @@
 ## Next token - an airdropable token fully implemented. with 100% unit test coverage!
 [NEXT TOKEN] is a blockchain project that [is currently being developed and will get published on mainnet].
 
-Getting Started
-Prerequisites
+### Getting Started
+### Prerequisites
 Before you begin, make sure you have Node.js and npm installed.
 
 
 
-Installing MetaMask
-To interact with our blockchain project, you'll need to install MetaMask. Follow the instructions on the official website to install MetaMask for your preferred browser.
+### Installing MetaMask
+To interact with our blockchain project, you'll need to install MetaMask. Follow the instructions on the official website to install MetaMask for your preferred browser.<br>
 
 [How to install metamask?](https://www.youtube.com/watch?v=OJqaZRpRqXM)
 
-Airdrop Information
+### Airdrop Information
 In this project, we conduct airdrops to distribute tokens. If you are unfamiliar with airdrops, you can learn more about them on this YouTube video.
 [What is an airdrop?]([https://www.youtube.com/watch?v=OJqaZRpRqXM](https://www.youtube.com/watch?v=rzAO5MhtRxU))
 

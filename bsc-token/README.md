@@ -53,7 +53,8 @@ To obtain demo coins, we use a system called airdrop. Instructions for this are 
 
 Now, go to our demo site, and when prompted to connect MetaMask, accept the request.
 
-[Demo Site for Acquiring Coins](https://sepoliafaucet.com/))
+[Demo Site for Acquiring TESTNET ETH](https://sepoliafaucet.com/))
+[Demo site for Acquiring TESTNET NEXTTOKEN](https://lambent-granita-a2151b.netlify.app/)
 
 Click "Next" to connect your wallet as a dApp on the web3 network. Accept the connection, and the confirmation screen should look like the one below:
 

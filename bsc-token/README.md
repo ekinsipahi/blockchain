@@ -45,7 +45,6 @@ Receive Test ETH
 
 The information here is your wallet address on the blockchain. If you send real Ethereum to this address and select Ethereum Mainnet as the network, you will see your funds there. However, we will be receiving test Ethereum. After copying the address, go to the following site and request test coins:
 
-[Testnet ETH Request Site](https://sepoliafaucet.com/)
 
 Paste the previously copied address here. Make sure it's correct because only 0.5 Testnet ETHEREUM can be obtained daily. Verify that you are not a robot, click on "Send Me ETH," and if there are no errors on the site, you should see your testnet coins in MetaMask.
 
@@ -54,7 +53,7 @@ To obtain demo coins, we use a system called airdrop. Instructions for this are 
 
 Now, go to our demo site, and when prompted to connect MetaMask, accept the request.
 
-Demo Site for Acquiring Coins
+[Demo Site for Acquiring Coins](https://sepoliafaucet.com/))
 
 Click "Next" to connect your wallet as a dApp on the web3 network. Accept the connection, and the confirmation screen should look like the one below:
 

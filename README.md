@@ -22,7 +22,7 @@ This repository is a collection of blockchain projects that I've built using var
 This repository contains the following projects:
 <br>
 ### Projects
-* ***Project 1***: IDO TOKEN pre-sale not implemented but gives 25 NEXT token to requester. Limited to 25 for each address.
+* ***Project 1***: AIRDROP TOKEN gives 25 NEXT token to requester. Limited to 25 for each address.
 
 The installation process for each project may vary depending on its requirements. Please refer to the project's README.md file for detailed instructions on how to install and set up the project on your local machine.
 

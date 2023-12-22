@@ -24,18 +24,6 @@ This repository contains the following projects:
 ### Projects
 * ***Project 1***: IDO TOKEN pre-sale not implemented but gives 25 NEXT token to requester. Limited to 25 for each address.
 
-### Medium Projects
-
-* ***Medium Project 1***: Interactive Rating Component with VueJs, vue-router and TailwindCSS | [Visit Url>>](https://64764e119b46940265916145--super-macaron-fb8fee.netlify.app/)
-
-### Projects
-* ***Project 1***: Advice generator that uses VuejsCLI as framework with tailwindCSS as CSS framework with axios that fetches the advice api | [Visit Url >>](https://64711f1b0e70731e35123d86--elaborate-croquembouche-a87754.netlify.app/)
-* ***Project 2***: Shortly Landing page with axios, Vuejs+Vite & Tailwindcss it makes your links shorter | [Visit Url>>](https://6473986916190863b4f2ea36--sunny-malabi-9286a3.netlify.app/)
-
-### Design Projects
-* ***Project 1***: Check it out from the link cryptocurrency loading animation with CSS | [Visit Url >>](https://656f74d7bfa5922856429af9--gentle-travesseiro-a60b6c.netlify.app/)
-## Installation
-
 The installation process for each project may vary depending on its requirements. Please refer to the project's README.md file for detailed instructions on how to install and set up the project on your local machine.
 
 In general, you may need to have certain software or tools installed, such as:
